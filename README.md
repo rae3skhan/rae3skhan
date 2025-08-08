@@ -1,6 +1,33 @@
-👋 Hi, I’m Raees Khan, a software engineering student and an IBM cybersecurity analyst. I have a certification in Cyber Security from Google and I'm passionate about learning new technologies and skills. I will be graduating in 2025 and I'm looking for opportunities to collaborate on interesting projects. You can connect with me on LinkedIn: https://www.linkedin.com/in/engr-raeeskhan or email me at Rae3skhan@gmail.com.
+👋 Hi, I’m Raees Khan — a Security Operations Center (SOC) Analyst in training, software engineering graduate (2025), and certified cybersecurity professional.  
 
-<!---
-rae3skhan/rae3skhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **Certifications**  
+- Google Cybersecurity Professional  
+- IBM Cybersecurity Analyst  
+- Certified Ethical Hacker (CEH)  
+- Certified Penetration Tester (CPT)  
+
+🔍 **Focus Areas**  
+- Threat detection and incident response  
+- SIEM monitoring and log analysis (Splunk, ELK)  
+- Network traffic analysis and intrusion detection  
+- Vulnerability assessment and penetration testing  
+
+💻 **Tech & Tools**  
+<p>
+  <img src="https://img.shields.io/badge/Linux-333?logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-333?logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-00457C?logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
+</p>
+
+🚀 I’m building advanced SOC and offensive security skills through hands-on labs, simulations, and real-world projects. Always open to collaborations in cybersecurity, secure software development, and network security.
+
+**Connect with me:**  
+LinkedIn: [Raees Khan](https://www.linkedin.com/in/engr-raeeskhan)  
+Email: engr.raees@proton.me
